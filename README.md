@@ -1,32 +1,30 @@
-PROJECT:LIBRARY MANAGEMENT SYSTEM
-AIM:
-To develop library management software where admin can add(or)view(or)delete librarian 
-and librarian can add(or)view books, issue, view issued books and return books.
+# PROJECT: LIBRARY MANAGEMENT SYSTEM
 
-Users of the System:
-Admin
-Librarian
+## AIM
+To develop library management software where admin can add/view/delete librarians and librarians can add/view books, issue, view issued books, and return books.
 
-Functional Requirements:
+## Users of the System
 1. Admin
-Can add/view/delete librarian
-Can logout
 2. Librarian
-Can add/view books
-Can issue books
-View issued books
-Return Books
-Can logout
 
-Tools to be used:
-Use any IDE to develop the project.
- It may be Eclipse /Myeclipse / Netbeans etc.
-MySQL for the database.
-Front End and Back End
-Front End: Java Swing
-Back End: MySQL
+## Functional Requirements
+### Admin
+- Can add/view/delete librarians
+- Can logout
 
-How to run this project:
-Import sql files to create tables in mysql.
-Import the project on the Eclipse IDE and run it.
+### Librarian
+- Can add/view books
+- Can issue books
+- View issued books
+- Return books
+- Can logout
 
+## Tools to be Used
+- IDE: Eclipse / MyEclipse / Netbeans
+- Database: MySQL
+- Front End: Java Swing
+- Back End: MySQL
+
+## How to Run the Project
+1. Import SQL files to create tables in MySQL.
+2. Import the project into the Eclipse IDE and run it.
