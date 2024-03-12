@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\AnuvikLibraryManagement\.metadata\.plugins\org.eclipse.jdt.core
+1138036400.index
+789344348.index
+2499430334.index
